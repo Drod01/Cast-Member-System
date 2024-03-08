@@ -1,11 +1,11 @@
 /**
- * Lab1 is a Java class containing a main method to run your program when completed.
+ * Java class containing a main method to run your program when completed.
  * This class will not compile until you have completed the requirements outlined in 
  * the lab description.
  * 
- * @author David Rodriguez (fep251)
- * UTSA CS 3443 - Lab 1
- * Summer 2023
+ * @author David Rodriguez 
+ * UTSA CS 3443
+ * 
  */
 public class Main {
 
